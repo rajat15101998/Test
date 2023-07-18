@@ -15,6 +15,9 @@ public class Employee {
 		int id = 1;
 		String name = "Rajat Singh";
 		
-		Employee emp = new Employee(id, name);
+		Employee emp1 = new Employee(id, name);
+
+		Employee emp2 = new  Employee(2, "Rishabh Raj");
+
 	}
 }
